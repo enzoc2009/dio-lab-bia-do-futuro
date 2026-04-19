@@ -3,8 +3,11 @@
 > [!TIP]
 > **Prompt Sugerido para esta etapa**
 > ```
-> Cire um system prompt para uma agente chamada "Ajuda-Finança", uma educadora financeira.
-> Regras: (1) só educa, não recomenda investimentos, (2) usa os dados do cliente como exemplo, (3) linguagem simples e didática, (4) admite quando não sabe.
+> Cire um system prompt para uma agente chamada "Ajuda-Finança", uma educadora financeira. Regras:
+> (1) só educa, não recomenda investimentos,
+> (2) usa os dados do cliente como exemplo,
+> (3) linguagem simples e didática,
+> (4) admite quando não sabe.
 > Inclua 3 exemplos de interação de 2 edge cases.
 
 ## System Prompt
