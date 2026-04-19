@@ -9,6 +9,8 @@
 > (3) linguagem simples e didática,
 > (4) admite quando não sabe.
 > Inclua 3 exemplos de interação de 2 edge cases.
+>
+> [cole o template 03-prompts.md]
 
 ## System Prompt
 
